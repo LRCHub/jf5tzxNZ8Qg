@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "朝にキス",
+  "base_artist": "CreepHyp",
+  "createdAt": "2026-03-09T14:33:03.424570Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "朝にキス",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_01_朝にキス_クリープハイプ.txt"
+    }
+  ]
+}
